@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "eco15_3",
+    "module_label": "ECO.15.3 - Exception & Coordination Monitoring",
+    "module_title": "Exception & Coordination Monitoring",
+    "module_slug": "exception_and_coordination_monitoring",
+    "app_code": "eco15",
+    "app_label": "ECO 15 - Cross-Enterprise Workflow Sharing",
+    "bundle_code": "eco",
+    "source_md_path": "doc/rnd/plugs/eco/eco1.md"
+  },
+  {
+    "module_code": "eco15_2",
+    "module_label": "ECO.15.2 - Execution Logging Across Entities",
+    "module_title": "Execution Logging Across Entities",
+    "module_slug": "execution_logging_across_entities",
+    "app_code": "eco15",
+    "app_label": "ECO 15 - Cross-Enterprise Workflow Sharing",
+    "bundle_code": "eco",
+    "source_md_path": "doc/rnd/plugs/eco/eco1.md"
+  },
+  {
+    "module_code": "eco15_1",
+    "module_label": "ECO.15.1 - Workflow Definition & Sharing",
+    "module_title": "Workflow Definition & Sharing",
+    "module_slug": "workflow_definition_and_sharing",
+    "app_code": "eco15",
+    "app_label": "ECO 15 - Cross-Enterprise Workflow Sharing",
+    "bundle_code": "eco",
+    "source_md_path": "doc/rnd/plugs/eco/eco1.md"
+  }
+]
